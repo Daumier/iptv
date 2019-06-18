@@ -4,6 +4,10 @@
     <display-name lang="it">Action</display-name>
     <url>http://www.laguidatv.it</url>
   </channel>
+  <channel id="alice">
+    <display-name lang="it">Alice</display-name>
+    <url>http://alice.tv</url>
+  </channel>
   <channel id="BBC Knowledge">
     <display-name lang="it">BBC Knowledge</display-name>
     <url>http://www.laguidatv.it</url>
