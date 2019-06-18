@@ -2,7 +2,6 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="TYC SPORTS">
     <display-name lang="es">TYC SPORTS</display-name>
-    <icon src="http://181.30.4.186/buscador/img/Logos/183140.gif" />
     <url>http://www.avcsa.com.ar</url>
   </channel>
   <channel id="Action">
